@@ -7,5 +7,3 @@ Here is another piece of text.
 
 
 Here is EVEN MORE!!!!!!!
-
-WASSUP
